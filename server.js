@@ -18,7 +18,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
   useFindAndModify: false,
 });
 
-// routes
+// This should call all of the routes
 app.use(routes);
 
 app.listen(PORT, () => {

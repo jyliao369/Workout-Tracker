@@ -9,7 +9,6 @@ const WorkoutSchema = new Schema({
     },
     exercises: [
         {
-            // Type is probably choosing doing strength or cardio
             type: {
                 type: String,
                 required: true,
