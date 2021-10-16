@@ -62,6 +62,6 @@
 
   Github Repo: https://github.com/jyliao369/ReadMe-Generator#installation
 
-  Deployed Link:
+  Deployed Link through Heroku: https://dry-crag-76667.herokuapp.com/
 
   
